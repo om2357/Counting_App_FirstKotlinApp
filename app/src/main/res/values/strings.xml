@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DemoOfOnClickListenener</string>
+    <string name="hello_sir">Hello sir!</string>
+    <string name="please_click_me">Please Click Me !</string>
+    <string name="count">Count</string>
+    <string name="hello_sir_">Hello Sir !</string>
+</resources>
